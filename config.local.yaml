@@ -1,4 +1,4 @@
-# ALICONNECT
+# SOURCEFORCE
 info:
   title: SourceForce
   description: One Source, One Truth
@@ -109,7 +109,10 @@ docs:
             src: /docs/en/aim/aim-cookietable.md
         Auteursrechtenbeleid:
           src: /docs/nl/copyright-policy.md
-    Learn: {}
+    Learn:
+      Publications:
+        Intrinsieke veiligheid:
+          src: /docs/nl/news/intrinsieke-veiligheid.md
     Develop: {}
 definitions:
   security: &basic_security
